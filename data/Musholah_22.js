@@ -1,0 +1,1 @@
+var json_Musholah_22 = {"type":"FeatureCollection","name":"Musholah_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Gedung":"Musholah","Foto":"D:\\Magang\\Projek WEBGIS BSIP Babel\\Foto\\IMG20241105104332.jpg"},"geometry":{"type":"Point","coordinates":[106.08716075438889,-2.136387445027813]}}]}

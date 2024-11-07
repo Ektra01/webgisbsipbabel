@@ -1,0 +1,1 @@
+var json_Saung_20 = {"type":"FeatureCollection","name":"Saung_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Fasilitas":"Saung","Foto":"D:\\Magang\\Projek WEBGIS BSIP Babel\\Foto\\IMG20241105104629.jpg"},"geometry":{"type":"Point","coordinates":[106.087244417095832,-2.138028170948892]}}]}
